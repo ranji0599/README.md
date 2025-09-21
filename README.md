@@ -45,7 +45,7 @@ Hardware & Tools: PCB Design (KiCAD, Fusion 360), HIL testing, soldering/debuggi
 Regulatory: ISO 13485, FDA, EU MDR, CDSCO, IEC 60601, ISO 14971
 Documentation: Technical Dossiers, Risk Management, Verification & Validation, DHF
 
-Experience
+## 🏢 Industrial Experience  
 
 DALOG India Private Limited (Jul. 2021 - Aug. 2022)
 

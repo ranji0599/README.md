@@ -50,21 +50,21 @@ Experience
 DALOG India Private Limited (Jul. 2021 - Aug. 2022)
 
 Commissioning Engineer Bengaluru
-– Mangaed the system level integration and commissioning of DALOG condition monitoring systems, ensuring suc-
+  - Mangaed the system level integration and commissioning of DALOG condition monitoring systems, ensuring suc-
 cesful deployment across a global client base.
-– Authored and prepared technical documentation in accordance with the project requirements and compnay stan-
+  - Authored and prepared technical documentation in accordance with the project requirements and compnay stan-
 dards.
-– Interpreted and worked with electrical schematics and PID diagrams to validate system level integrity and func-
+  - Interpreted and worked with electrical schematics and PID diagrams to validate system level integrity and func-
 tionaity.
-– configured embedded controllers and collaborated with on-site teams to ensure seamless project completion.
-– Designed and implemented customer specific UI dashboards, focusing on data clarity and user experience.
-– Actively contributed to the New Product Introduction (NPI) process, overseeing project execution from the engi-
-neering phase to product phase to product activation
-– Ensured adherence to high quality standards and excellent customer satisfaction through meticulous work.
-– Participated in crucial project planning meetings and procurement processes (MOM and PO preparations).
-– Provided technical product clarifications and comprehensive user training for customers, demonstrating strong
+  - configured embedded controllers and collaborated with on-site teams to ensure seamless project completion.
+  - Designed and implemented customer specific UI dashboards, focusing on data clarity and user experience.
+  - Actively contributed to the New Product Introduction (NPI) process, overseeing project execution from the engi-
+neering phase to product phase to product activation.
+  -  Ensured adherence to high quality standards and excellent customer satisfaction through meticulous work.
+  -  Participated in crucial project planning meetings and procurement processes (MOM and PO preparations).
+  -  Provided technical product clarifications and comprehensive user training for customers, demonstrating strong
 communication skills.
-– Coordinated and conducted User Acceptance Test (UAT) report to validate the system with end users.
+  - Coordinated and conducted User Acceptance Test (UAT) report to validate the system with end users.
 
 
 🌐 Connect

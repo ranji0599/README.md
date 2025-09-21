@@ -49,7 +49,7 @@ Documentation: Technical Dossiers, Risk Management, Verification & Validation, D
 
 ### DALOG India Private Limited (Jul. 2021 - Aug. 2022)
 
-Commissioning Engineer Bengaluru
+**Commissioning Engineer, Bengaluru**
   - Mangaed the system level integration and commissioning of DALOG condition monitoring systems, ensuring suc-
 cesful deployment across a global client base.
   - Authored and prepared technical documentation in accordance with the project requirements and compnay stan-

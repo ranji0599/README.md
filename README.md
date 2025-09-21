@@ -3,7 +3,7 @@ Hi, I’m Ranjith 👋
 🎓 M.Tech Biomedical Science & Engineering @ IIT Guwahati | B.Tech Electronics & Communication
 ⚡ Passionate about designing medical devices from prototype → regulatory compliance → product readiness.
 
-🔬 Focus Areas
+## 🔬 Focus Areas
 
 Medical Electronics & Embedded Systems
   1. Circuit & PCB design (Analog/Digital, KiCAD, Fusion 360)
@@ -16,7 +16,7 @@ Regulatory Affairs & Quality
   3. Technical Dossiers, DHF, V&V plans, CAPA & Post-Market Surveillance
 
 
-📂 Featured Projects
+## 📂 Featured Projects
 
 [🧠 Non-Invasive Neuromodulation Device for Alzheimer’s Therapy](https://github.com/ranji0599/Master-Thesis)
   1. Designed electrodes & PCB, advancing TRL-4 prototype.
@@ -38,7 +38,7 @@ Regulatory Affairs & Quality
   1.Embedded system design for real-time vehicle monitoring.
   2. Published in IACIT 2020 Conference.
 
-📊 Skills Snapshot
+## 📊 Skills Snapshot
 
 Programming: C, Embedded C, Python, MATLAB
 Hardware & Tools: PCB Design (KiCAD, Fusion 360), HIL testing, soldering/debugging
@@ -47,7 +47,7 @@ Documentation: Technical Dossiers, Risk Management, Verification & Validation, D
 
 ## 🏢 Industrial Experience  
 
-DALOG India Private Limited (Jul. 2021 - Aug. 2022)
+### DALOG India Private Limited (Jul. 2021 - Aug. 2022)
 
 Commissioning Engineer Bengaluru
   - Mangaed the system level integration and commissioning of DALOG condition monitoring systems, ensuring suc-
